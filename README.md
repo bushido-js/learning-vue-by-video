@@ -1,4 +1,4 @@
-# vue-test3
+# incomplete version vue application
 
 ## Project setup
 ```
